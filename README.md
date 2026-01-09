@@ -1,0 +1,2 @@
+# ETL8_CNN_training
+基于cnn架构和ETL8数据集训练ocr识别模型的训练代码
